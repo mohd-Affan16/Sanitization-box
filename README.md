@@ -1,11 +1,11 @@
-# IoT UV-C Sterilization System
+# IoT Sterilization System
 
 **My third mini-project** — Built during 3rd semester (DDCO subject) at **P.A. College of Engineering, Mangalore** (Group Project).
 
 A smart UV-C sterilization chamber designed for safe, remote-controlled disinfection with multiple safety features.
-
+<p align="center">
 <img width="450" height="350" alt="WhatsApp Image 2026-06-12 at 11 25 26 PM" src="https://github.com/user-attachments/assets/8a46dea6-c8c3-4573-99e8-84d6eedeb444" />
-
+</p>
 
 ## 🎯 Project Overview
 
@@ -46,10 +46,9 @@ It reinforced how hardware, software, and connectivity can come together to buil
 
 ## 🔗 Links
 
-- **Full Project Report**: [UV-C Sterilization Report.pdf](docs/UV_C_Sterilization_Report.pdf)
-- LinkedIn Post: [Add link once posted]
+- **Full Project Report**: [UV-C Sterilization Report.pdf](https://drive.google.com/file/d/1ToFa030doMJLHH_1xuawGg1L7lSJMNRW/view?usp=drivesdk)
+- LinkedIn Post: [View post](https://www.linkedin.com/posts/mohammed-affan-79648934a_iot-embeddedsystems-esp8266-activity-7429895027952238592-Zh3_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFdHmSIBeqaWhdYUc5Wtk6K2MB35X1BTDFs)
 - College: P.A. College of Engineering, Mangalore
 
 ---
 
-**Made with ❤️ by Mohammed Affan**
