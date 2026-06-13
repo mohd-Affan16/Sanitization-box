@@ -40,10 +40,6 @@ By the third semester, I had moved from basic offline hardware to cloud-connecte
 
 It reinforced how hardware, software, and connectivity can come together to build practical solutions for real-world safety applications.
 
-## 📸 Project Photos
-
-*(Add circuit photos, web interface screenshots, Telegram notifications, and final setup here)*
-
 ## 🔗 Links
 
 - **Full Project Report**: [UV-C Sterilization Report.pdf](https://drive.google.com/file/d/1ToFa030doMJLHH_1xuawGg1L7lSJMNRW/view?usp=drivesdk)
