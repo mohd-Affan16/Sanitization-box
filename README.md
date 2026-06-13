@@ -1,8 +1,8 @@
-# IoT Sterilization System
+# Sterilization Box
 
 **My third mini-project** — Built during 3rd semester (DDCO subject) at **P.A. College of Engineering, Mangalore** (Group Project).
 
-A smart UV-C sterilization chamber designed for safe, remote-controlled disinfection with multiple safety features.
+A smart sterilization chamber designed for safe, remote-controlled disinfection with multiple safety features.
 <p align="center">
 <img width="450" height="350" alt="WhatsApp Image 2026-06-12 at 11 25 26 PM" src="https://github.com/user-attachments/assets/8a46dea6-c8c3-4573-99e8-84d6eedeb444" />
 </p>
